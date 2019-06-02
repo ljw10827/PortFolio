@@ -10,5 +10,7 @@ DirectX 팀 프로젝트에서 맡은 분야 소스 위치
 Unity 프로젝트
 
 Resources - 프로젝트 진행하면서 사용했던 Resources 폴더
+
 Scenes - 프로젝트 진행하면서 사용했던 Scene 폴더
+
 Scripts - 프로젝트 진행하면서 만들고 사용했던 모든 Script 폴더
