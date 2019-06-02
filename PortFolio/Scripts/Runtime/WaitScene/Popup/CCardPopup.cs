@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-//물어보기 ocardList 내용물 구성 저장이 왜가능한지. list는클래스라 참조임.
 public class CCardPopup : CComponent
 {
 	public GameObject[] m_oFrames = null;
