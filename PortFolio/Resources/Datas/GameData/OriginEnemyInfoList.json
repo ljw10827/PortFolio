@@ -1,0 +1,44 @@
+{
+  "OriginEnemyInfoList": [
+    {
+      "ID": "1",
+      "Name": "Crow",
+      "Atk": "90",
+      "Def": "80",
+      "Hp": "180",
+      "Delay": "5"
+    },
+    {
+      "ID": "2",
+      "Name": "MouseSpear",
+      "Atk": "90",
+      "Def": "60",
+      "Hp": "230",
+      "Delay": "3.5"
+    },
+    {
+      "ID": "3",
+      "Name": "Demon",
+      "Atk": "120",
+      "Def": "45",
+      "Hp": "250",
+      "Delay": "6.3"
+    },
+    {
+      "ID": "4",
+      "Name": "Witch",
+      "Atk": "190",
+      "Def": "90",
+      "Hp": "350",
+      "Delay": "5.8"
+    },
+    {
+      "ID": "5",
+      "Name": "Golem",
+      "Atk": "190",
+      "Def": "90",
+      "Hp": "550",
+      "Delay": "6.2"
+    }
+  ]
+}
