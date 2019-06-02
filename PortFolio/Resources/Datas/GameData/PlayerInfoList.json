@@ -1,0 +1,10 @@
+{
+  "PlayerInfoList": [
+    {
+      "ID": "1",
+      "Name": "Player",
+      "Money": "15000",
+      "Cash": "15000"
+    }
+  ]
+}

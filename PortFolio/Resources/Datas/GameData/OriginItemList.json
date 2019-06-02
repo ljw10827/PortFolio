@@ -1,0 +1,52 @@
+{
+  "OriginItemList": [
+    {
+      "ID": "1",
+      "Name": "Ingots",
+      "Slot": "0",
+      "Amount": "0"
+    },
+    {
+      "ID": "2",
+      "Name": "Apple",
+      "Slot": "0",
+      "Amount": "0"
+    },
+    {
+      "ID": "3",
+      "Name": "Scroll",
+      "Slot": "0",
+      "Amount": "0"
+    },
+    {
+      "ID": "4",
+      "Name": "Book",
+      "Slot": "0",
+      "Amount": "0"
+    },
+    {
+      "ID": "5",
+      "Name": "Gem",
+      "Slot": "0",
+      "Amount": "0"
+    },
+    {
+      "ID": "6",
+      "Name": "Sword",
+      "Slot": "0",
+      "Amount": "0"
+    },
+    {
+      "ID": "7",
+      "Name": "Ring",
+      "Slot": "0",
+      "Amount": "0"
+    },
+    {
+      "ID": "8",
+      "Name": "Armor",
+      "Slot": "0",
+      "Amount": "0"
+    }
+  ]
+}

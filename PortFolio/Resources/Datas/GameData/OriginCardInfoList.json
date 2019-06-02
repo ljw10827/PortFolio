@@ -1,0 +1,64 @@
+{
+  "OriginCardInfoList": [
+    {
+      "ID": "1",
+      "Name": "Straton",
+      "Atk": "100",
+      "Def": "80",
+      "Hp": "300",
+      "Select": "false",
+      "Amount": "0",
+      "Slot": "0",
+      "Delay": "9.5",
+      "LV" :  "1"
+    },
+    {
+      "ID": "2",
+      "Name": "Rose",
+      "Atk": "150",
+      "Def": "60",
+      "Hp": "230",
+      "Select": "false",
+      "Amount": "0",
+      "Slot": "0",
+      "Delay": "13.0",
+      "LV": "1"
+    },
+    {
+      "ID": "3",
+      "Name": "AncientKnight",
+      "Atk": "120",
+      "Def": "85",
+      "Hp": "400",
+      "Select": "false",
+      "Amount": "0",
+      "Slot": "0",
+      "Delay": "13.0",
+      "LV": "1"
+    },
+    {
+      "ID": "4",
+      "Name": "Lina",
+      "Atk": "90",
+      "Def": "70",
+      "Hp": "250",
+      "Select": "false",
+      "Amount": "0",
+      "Slot": "0",
+      "Delay": "10.0",
+      "LV": "1"
+    },
+    {
+      "ID": "5",
+      "Name": "Elf",
+      "Atk": "130",
+      "Def": "30",
+      "Hp": "200",
+      "Select": "false",
+      "Amount": "0",
+      "Slot": "0",
+      "Delay": "10.0",
+      "LV": "1"
+    }
+  ]
+}
