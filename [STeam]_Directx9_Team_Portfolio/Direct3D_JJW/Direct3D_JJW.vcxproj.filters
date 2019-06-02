@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{46f439f2-8708-4813-a818-2bd1a36cb76d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Global">
+      <UniqueIdentifier>{6c33a0e0-dba0-4dfa-90c3-1420391b6ca0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Global\Define">
+      <UniqueIdentifier>{2da8eeb4-bed8-4c3f-b461-e61e654c24c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Global\Utility">
+      <UniqueIdentifier>{a5951aa1-9ab0-4258-8ef8-b981831adcb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Global\Utility\Base">
+      <UniqueIdentifier>{68893981-9a4b-4571-94d7-c30a328cab5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Global\Utility\Manager">
+      <UniqueIdentifier>{36d2b516-8802-4506-81f2-9b5696d7fe45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Global\Utility\Interface">
+      <UniqueIdentifier>{2dcabe01-5778-4c28-b709-619e2b281e06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Global\Utility\Object">
+      <UniqueIdentifier>{93d38a3b-8890-4604-b14e-9272bd6e4a74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Global\Utility\Debug">
+      <UniqueIdentifier>{f477e89f-7e49-4ca1-a35b-661524c60521}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Global\Utility\UI">
+      <UniqueIdentifier>{5354d038-eb22-4389-bc45-7fb367f1d8f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Global\Utility\Animation">
+      <UniqueIdentifier>{8b678d72-4403-4c09-a081-12ef56f387ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Global\Utility\Particle">
+      <UniqueIdentifier>{7e54d8dc-4362-43ed-8ebf-b96062df9330}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Global\Function">
+      <UniqueIdentifier>{679f9a35-340b-4702-816f-c690a6340889}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Global\Utility\Sound">
+      <UniqueIdentifier>{dd834a88-633a-41cb-bac8-be905e0918c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Tera">
+      <UniqueIdentifier>{f951a5ef-e845-4ff4-a5fe-ab34e548dc87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Tera\NPC">
+      <UniqueIdentifier>{af3135cf-9123-4ed4-9dc2-6b96daa720f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Tera\Player">
+      <UniqueIdentifier>{a224867b-27fe-4d7a-8070-23c3fa4050fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Tera\TeraEffect">
+      <UniqueIdentifier>{eb28761e-efef-4bb6-ba35-ee2420393332}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Tera\TeraUI">
+      <UniqueIdentifier>{6b09e962-bfad-455e-b6f4-549cab343ac5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Tera\SkillEffect">
+      <UniqueIdentifier>{cd76712a-1867-47c3-9074-540e53e0f6c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Tera\Map">
+      <UniqueIdentifier>{67aed6af-b5c5-41ed-9353-b925802012b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Tera\StaticMesh">
+      <UniqueIdentifier>{ae8cb7ef-ffbd-4832-93c9-ac21be93282c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Tera\Monster">
+      <UniqueIdentifier>{750d09ac-4181-4e71-b233-2010418af19f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Tera\Etc">
+      <UniqueIdentifier>{7997ab55-6469-4596-bb67-eaa378cdc7a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Tera\TeraDMFont">
+      <UniqueIdentifier>{507234b5-aa76-47e9-bb38-c173253d2b1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Tera\TeraScene">
+      <UniqueIdentifier>{c5f43e27-ab8b-4d89-902e-e816d5d71a09}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Classes\Global\Utility\Manager\CWindowManager.cpp">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Base\CWindowApplication.cpp">
+      <Filter>Classes\Global\Utility\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Base\CDirect3DApplication.cpp">
+      <Filter>Classes\Global\Utility\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Manager\CDeviceManager.cpp">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Manager\CTimeManager.cpp">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Manager\CInputManager.cpp">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Base\CObject.cpp">
+      <Filter>Classes\Global\Utility\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Base\CRenderObject.cpp">
+      <Filter>Classes\Global\Utility\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Debug\CGrid.cpp">
+      <Filter>Classes\Global\Utility\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Debug\CGizmo.cpp">
+      <Filter>Classes\Global\Utility\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Object\CLight.cpp">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\UI\CSprite.cpp">
+      <Filter>Classes\Global\Utility\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Base\CUIObject.cpp">
+      <Filter>Classes\Global\Utility\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Manager\CResourceManager.cpp">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\UI\CLabel.cpp">
+      <Filter>Classes\Global\Utility\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Object\CStaticMesh.cpp">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Object\CSkybox.cpp">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Object\CTerrain.cpp">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Animation\CAllocateHierarchy.cpp">
+      <Filter>Classes\Global\Utility\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Animation\CAnimationController.cpp">
+      <Filter>Classes\Global\Utility\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Particle\CParticleEmitter.cpp">
+      <Filter>Classes\Global\Utility\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Object\CParticleSystem.cpp">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Function\GlobalFunction.cpp">
+      <Filter>Classes\Global\Function</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Sound\CSound.cpp">
+      <Filter>Classes\Global\Utility\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Manager\CSoundManager.cpp">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Debug\CDebugDraw.cpp">
+      <Filter>Classes\Global\Utility\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Base\CSceneObject.cpp">
+      <Filter>Classes\Global\Utility\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Manager\CSceneManager.cpp">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Map\bossRoom.cpp">
+      <Filter>Classes\Tera\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\StaticMesh\CStaticMesh_AlphaControl.cpp">
+      <Filter>Classes\Tera\StaticMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\StaticMesh\CStaticMesh_Map.cpp">
+      <Filter>Classes\Tera\StaticMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\TeraUI\CSprite_MapUI.cpp">
+      <Filter>Classes\Tera\TeraUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Monster\MBasilisk.cpp">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Monster\CMonster.cpp">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Object\CCamera.cpp">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Map\CTeraMap.cpp">
+      <Filter>Classes\Tera\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Map\CTeraMapManager.cpp">
+      <Filter>Classes\Tera\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Monster\MGhillieDhu.cpp">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Monster\MArgass.cpp">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Monster\MCraftySpider.cpp">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Monster\MDooBean.cpp">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Monster\MPlantMini.cpp">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Monster\MPollutedWolf.cpp">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Manager\CSchedulerManager.cpp">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\StaticMesh\CStaticMesh_Boss.cpp">
+      <Filter>Classes\Tera\StaticMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Object\CSkinnedMesh.cpp">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\TeraDMFont\CTeraDMFont.cpp">
+      <Filter>Classes\Tera\TeraDMFont</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\TeraUI\CQuestPopup.cpp">
+      <Filter>Classes\Tera\TeraUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\NPC\CNPC.cpp">
+      <Filter>Classes\Tera\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\main.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Monster\CMonsterFactory.cpp">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\TeraScene\BossScene.cpp">
+      <Filter>Classes\Tera\TeraScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\TeraScene\IntroScene.cpp">
+      <Filter>Classes\Tera\TeraScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\TeraScene\LoadingScene.cpp">
+      <Filter>Classes\Tera\TeraScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\TeraScene\MainScene.cpp">
+      <Filter>Classes\Tera\TeraScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\TeraMain.cpp">
+      <Filter>Classes\Tera</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Map\filedMap.cpp">
+      <Filter>Classes\Tera\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Player\CPlayer.cpp">
+      <Filter>Classes\Tera\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\TeraUI\CTeraUI.cpp">
+      <Filter>Classes\Tera\TeraUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\Monster\MVergos.cpp">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Tera\TeraEffect\CTeraEffect.cpp">
+      <Filter>Classes\Tera\TeraEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Animation\CAllocateHierarchyBoss.cpp">
+      <Filter>Classes\Global\Utility\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Global\Utility\Object\CSkinnedMeshBoss.cpp">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Classes\Global\Utility\Base\CWindowApplication.h">
+      <Filter>Classes\Global\Utility\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Manager\CWindowManager.h">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Interface\IWindowMessageHandler.h">
+      <Filter>Classes\Global\Utility\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Base\CDirect3DApplication.h">
+      <Filter>Classes\Global\Utility\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Interface\IUpdateable.h">
+      <Filter>Classes\Global\Utility\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Interface\IRenderable.h">
+      <Filter>Classes\Global\Utility\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Manager\CDeviceManager.h">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Manager\CTimeManager.h">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Manager\CInputManager.h">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Base\CObject.h">
+      <Filter>Classes\Global\Utility\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Base\CRenderObject.h">
+      <Filter>Classes\Global\Utility\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Debug\CGrid.h">
+      <Filter>Classes\Global\Utility\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Debug\CGizmo.h">
+      <Filter>Classes\Global\Utility\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Object\CLight.h">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\UI\CSprite.h">
+      <Filter>Classes\Global\Utility\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Base\CUIObject.h">
+      <Filter>Classes\Global\Utility\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Manager\CResourceManager.h">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\UI\CLabel.h">
+      <Filter>Classes\Global\Utility\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Object\CStaticMesh.h">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Object\CSkybox.h">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Object\CTerrain.h">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Animation\CAllocateHierarchy.h">
+      <Filter>Classes\Global\Utility\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Animation\CAnimationController.h">
+      <Filter>Classes\Global\Utility\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Particle\CParticleEmitter.h">
+      <Filter>Classes\Global\Utility\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Object\CParticleSystem.h">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Function\GlobalFunction.h">
+      <Filter>Classes\Global\Function</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Sound\CSound.h">
+      <Filter>Classes\Global\Utility\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Manager\CSoundManager.h">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Debug\CDebugDraw.h">
+      <Filter>Classes\Global\Utility\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Base\CSceneObject.h">
+      <Filter>Classes\Global\Utility\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Manager\CSceneManager.h">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\SkillEffect\CSkillEffect.h">
+      <Filter>Classes\Tera\SkillEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Define\KGlobalDefine.h">
+      <Filter>Classes\Global\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Map\bossRoom.h">
+      <Filter>Classes\Tera\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\StaticMesh\CStaticMesh_Map.h">
+      <Filter>Classes\Tera\StaticMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\StaticMesh\CStaticMesh_AlphaControl.h">
+      <Filter>Classes\Tera\StaticMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\TeraUI\CSprite_MapUI.h">
+      <Filter>Classes\Tera\TeraUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Monster\CMonster.h">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Monster\MBasilisk.h">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Object\CCamera.h">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Etc\CTeraGlobalHeader.h">
+      <Filter>Classes\Tera\Etc</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Map\CTeraMap.h">
+      <Filter>Classes\Tera\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Map\CTeraMapManager.h">
+      <Filter>Classes\Tera\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Monster\MGhillieDhu.h">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Classes\Tera\Monster\MArgass.h">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Monster\MCraftySpider.h">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Monster\MDooBean.h">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Monster\MPlantMini.h">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Monster\MPollutedWolf.h">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Manager\CSchedulerManager.h">
+      <Filter>Classes\Global\Utility\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\StaticMesh\CStaticMesh_Boss.h">
+      <Filter>Classes\Tera\StaticMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Object\CSkinnedMesh.h">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\TeraDMFont\CTeraDMFont.h">
+      <Filter>Classes\Tera\TeraDMFont</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\TeraUI\CQuestPopup.h">
+      <Filter>Classes\Tera\TeraUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\NPC\CNPC.h">
+      <Filter>Classes\Tera\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Monster\CMonsterFactory.h">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\TeraScene\MainScene.h">
+      <Filter>Classes\Tera\TeraScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\TeraScene\BossScene.h">
+      <Filter>Classes\Tera\TeraScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\TeraScene\IntroScene.h">
+      <Filter>Classes\Tera\TeraScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\TeraScene\LoadingScene.h">
+      <Filter>Classes\Tera\TeraScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\TeraMain.h">
+      <Filter>Classes\Tera</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Map\filedMap.h">
+      <Filter>Classes\Tera\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Player\CPlayer.h">
+      <Filter>Classes\Tera\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\TeraUI\CTeraUI.h">
+      <Filter>Classes\Tera\TeraUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\Monster\MVergos.h">
+      <Filter>Classes\Tera\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Tera\TeraEffect\CTeraEffect.h">
+      <Filter>Classes\Tera\TeraEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Animation\CAllocateHierarchyBoss.h">
+      <Filter>Classes\Global\Utility\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Global\Utility\Object\CSkinnedMeshBoss.h">
+      <Filter>Classes\Global\Utility\Object</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Direct3D_JJW.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cursor\Hand.cur">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Resources\Cursor\Loading.ani">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Resources\Cursor\action.ani">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="resources\icon\ani1.bin">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\Icon\Tera.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

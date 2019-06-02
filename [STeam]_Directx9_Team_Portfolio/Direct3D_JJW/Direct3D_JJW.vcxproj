@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Classes\Global\Utility\Animation\CAllocateHierarchyBoss.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Object\CSkinnedMeshBoss.cpp" />
+    <ClCompile Include="Classes\main.cpp" />
+    <ClCompile Include="Classes\Global\Function\GlobalFunction.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Animation\CAllocateHierarchy.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Animation\CAnimationController.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Base\CDirect3DApplication.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Base\CObject.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Base\CRenderObject.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Base\CSceneObject.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Base\CWindowApplication.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Base\CUIObject.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Debug\CDebugDraw.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Debug\CGizmo.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Debug\CGrid.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Manager\CDeviceManager.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Manager\CInputManager.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Manager\CResourceManager.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Manager\CSceneManager.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Manager\CSchedulerManager.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Manager\CSoundManager.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Manager\CTimeManager.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Manager\CWindowManager.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Object\CCamera.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Object\CLight.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Object\CParticleSystem.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Object\CSkinnedMesh.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Object\CSkybox.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Object\CStaticMesh.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Object\CTerrain.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Particle\CParticleEmitter.cpp" />
+    <ClCompile Include="Classes\Global\Utility\Sound\CSound.cpp" />
+    <ClCompile Include="Classes\Global\Utility\UI\CLabel.cpp" />
+    <ClCompile Include="Classes\Global\Utility\UI\CSprite.cpp" />
+    <ClCompile Include="Classes\Tera\Map\bossRoom.cpp" />
+    <ClCompile Include="Classes\Tera\Map\CTeraMap.cpp" />
+    <ClCompile Include="Classes\Tera\Map\CTeraMapManager.cpp" />
+    <ClCompile Include="Classes\Tera\Map\filedMap.cpp" />
+    <ClCompile Include="Classes\Tera\Monster\CMonster.cpp" />
+    <ClCompile Include="Classes\Tera\Monster\CMonsterFactory.cpp" />
+    <ClCompile Include="Classes\Tera\Monster\MArgass.cpp" />
+    <ClCompile Include="Classes\Tera\Monster\MBasilisk.cpp" />
+    <ClCompile Include="Classes\Tera\Monster\MCraftySpider.cpp" />
+    <ClCompile Include="Classes\Tera\Monster\MDooBean.cpp" />
+    <ClCompile Include="Classes\Tera\Monster\MPlantMini.cpp" />
+    <ClCompile Include="Classes\Tera\Monster\MPollutedWolf.cpp" />
+    <ClCompile Include="Classes\Tera\Monster\MGhillieDhu.cpp" />
+    <ClCompile Include="Classes\Tera\Monster\MVergos.cpp" />
+    <ClCompile Include="Classes\Tera\NPC\CNPC.cpp" />
+    <ClCompile Include="Classes\Tera\Player\CPlayer.cpp" />
+    <ClCompile Include="Classes\Tera\StaticMesh\CStaticMesh_AlphaControl.cpp" />
+    <ClCompile Include="Classes\Tera\StaticMesh\CStaticMesh_Boss.cpp" />
+    <ClCompile Include="Classes\Tera\StaticMesh\CStaticMesh_Map.cpp" />
+    <ClCompile Include="Classes\Tera\TeraDMFont\CTeraDMFont.cpp" />
+    <ClCompile Include="Classes\Tera\TeraEffect\CTeraEffect.cpp" />
+    <ClCompile Include="Classes\Tera\TeraMain.cpp" />
+    <ClCompile Include="Classes\Tera\TeraScene\BossScene.cpp" />
+    <ClCompile Include="Classes\Tera\TeraScene\IntroScene.cpp" />
+    <ClCompile Include="Classes\Tera\TeraScene\LoadingScene.cpp" />
+    <ClCompile Include="Classes\Tera\TeraScene\MainScene.cpp" />
+    <ClCompile Include="Classes\Tera\TeraUI\CQuestPopup.cpp" />
+    <ClCompile Include="Classes\Tera\TeraUI\CSprite_MapUI.cpp" />
+    <ClCompile Include="Classes\Tera\TeraUI\CTeraUI.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Classes\Global\Define\KGlobalDefine.h" />
+    <ClInclude Include="Classes\Global\Function\GlobalFunction.h" />
+    <ClInclude Include="Classes\Global\Utility\Animation\CAllocateHierarchy.h" />
+    <ClInclude Include="Classes\Global\Utility\Animation\CAllocateHierarchyBoss.h" />
+    <ClInclude Include="Classes\Global\Utility\Animation\CAnimationController.h" />
+    <ClInclude Include="Classes\Global\Utility\Base\CDirect3DApplication.h" />
+    <ClInclude Include="Classes\Global\Utility\Base\CObject.h" />
+    <ClInclude Include="Classes\Global\Utility\Base\CRenderObject.h" />
+    <ClInclude Include="Classes\Global\Utility\Base\CSceneObject.h" />
+    <ClInclude Include="Classes\Global\Utility\Base\CWindowApplication.h" />
+    <ClInclude Include="Classes\Global\Utility\Base\CUIObject.h" />
+    <ClInclude Include="Classes\Global\Utility\Debug\CDebugDraw.h" />
+    <ClInclude Include="Classes\Global\Utility\Debug\CGizmo.h" />
+    <ClInclude Include="Classes\Global\Utility\Debug\CGrid.h" />
+    <ClInclude Include="Classes\Global\Utility\Interface\IRenderable.h" />
+    <ClInclude Include="Classes\Global\Utility\Interface\IUpdateable.h" />
+    <ClInclude Include="Classes\Global\Utility\Interface\IWindowMessageHandler.h" />
+    <ClInclude Include="Classes\Global\Utility\Manager\CDeviceManager.h" />
+    <ClInclude Include="Classes\Global\Utility\Manager\CInputManager.h" />
+    <ClInclude Include="Classes\Global\Utility\Manager\CResourceManager.h" />
+    <ClInclude Include="Classes\Global\Utility\Manager\CSceneManager.h" />
+    <ClInclude Include="Classes\Global\Utility\Manager\CSchedulerManager.h" />
+    <ClInclude Include="Classes\Global\Utility\Manager\CSoundManager.h" />
+    <ClInclude Include="Classes\Global\Utility\Manager\CTimeManager.h" />
+    <ClInclude Include="Classes\Global\Utility\Manager\CWindowManager.h" />
+    <ClInclude Include="Classes\Global\Utility\Object\CCamera.h" />
+    <ClInclude Include="Classes\Global\Utility\Object\CLight.h" />
+    <ClInclude Include="Classes\Global\Utility\Object\CParticleSystem.h" />
+    <ClInclude Include="Classes\Global\Utility\Object\CSkinnedMesh.h" />
+    <ClInclude Include="Classes\Global\Utility\Object\CSkinnedMeshBoss.h" />
+    <ClInclude Include="Classes\Global\Utility\Object\CSkybox.h" />
+    <ClInclude Include="Classes\Global\Utility\Object\CStaticMesh.h" />
+    <ClInclude Include="Classes\Global\Utility\Object\CTerrain.h" />
+    <ClInclude Include="Classes\Global\Utility\Particle\CParticleEmitter.h" />
+    <ClInclude Include="Classes\Global\Utility\Sound\CSound.h" />
+    <ClInclude Include="Classes\Global\Utility\UI\CLabel.h" />
+    <ClInclude Include="Classes\Global\Utility\UI\CSprite.h" />
+    <ClInclude Include="Classes\Tera\Etc\CTeraGlobalHeader.h" />
+    <ClInclude Include="Classes\Tera\Map\bossRoom.h" />
+    <ClInclude Include="Classes\Tera\Map\CTeraMap.h" />
+    <ClInclude Include="Classes\Tera\Map\CTeraMapManager.h" />
+    <ClInclude Include="Classes\Tera\Map\filedMap.h" />
+    <ClInclude Include="Classes\Tera\Monster\CMonster.h" />
+    <ClInclude Include="Classes\Tera\Monster\CMonsterFactory.h" />
+    <ClInclude Include="Classes\Tera\Monster\MArgass.h" />
+    <ClInclude Include="Classes\Tera\Monster\MBasilisk.h" />
+    <ClInclude Include="Classes\Tera\Monster\MCraftySpider.h" />
+    <ClInclude Include="Classes\Tera\Monster\MDooBean.h" />
+    <ClInclude Include="Classes\Tera\Monster\MPlantMini.h" />
+    <ClInclude Include="Classes\Tera\Monster\MPollutedWolf.h" />
+    <ClInclude Include="Classes\Tera\Monster\MGhillieDhu.h" />
+    <ClInclude Include="Classes\Tera\Monster\MVergos.h" />
+    <ClInclude Include="Classes\Tera\NPC\CNPC.h" />
+    <ClInclude Include="Classes\Tera\Player\CPlayer.h" />
+    <ClInclude Include="Classes\Tera\SkillEffect\CSkillEffect.h" />
+    <ClInclude Include="Classes\Tera\StaticMesh\CStaticMesh_AlphaControl.h" />
+    <ClInclude Include="Classes\Tera\StaticMesh\CStaticMesh_Boss.h" />
+    <ClInclude Include="Classes\Tera\StaticMesh\CStaticMesh_Map.h" />
+    <ClInclude Include="Classes\Tera\TeraDMFont\CTeraDMFont.h" />
+    <ClInclude Include="Classes\Tera\TeraEffect\CTeraEffect.h" />
+    <ClInclude Include="Classes\Tera\TeraMain.h" />
+    <ClInclude Include="Classes\Tera\TeraScene\BossScene.h" />
+    <ClInclude Include="Classes\Tera\TeraScene\IntroScene.h" />
+    <ClInclude Include="Classes\Tera\TeraScene\LoadingScene.h" />
+    <ClInclude Include="Classes\Tera\TeraScene\MainScene.h" />
+    <ClInclude Include="Classes\Tera\TeraUI\CQuestPopup.h" />
+    <ClInclude Include="Classes\Tera\TeraUI\CSprite_MapUI.h" />
+    <ClInclude Include="Classes\Tera\TeraUI\CTeraUI.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Direct3D_JJW.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cursor\action.ani" />
+    <None Include="Resources\Cursor\Hand.cur" />
+    <None Include="Resources\Cursor\Loading.ani" />
+    <None Include="resources\icon\ani1.bin" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\Icon\Tera.ico" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{3F1F691C-E9C9-4D87-B8F6-9518368DF501}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>Direct3DJJW</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>D:\DirectX9_팀포폴_프로젝트+영상\[STeam]_Directx9_Team_Portfolio\Direct3D_JJW\Effectlib\include;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;D:\DirectX9_팀포폴_프로젝트+영상\[STeam]_Directx9_Team_Portfolio\Direct3D_JJW\Effectlib\lib\VS2015\Debug;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <ExecutablePath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;D:\03.Direct3D_JJW\04.프로젝트\[STeam]_Directx9_Team_Portfolio\Direct3D_JJW\Effectlib\include;$(ExecutablePath)</ExecutablePath>
+    <IncludePath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;D:\03.Direct3D_JJW\04.프로젝트\[STeam]_Directx9_Team_Portfolio\Direct3D_JJW\Effectlib\lib\VS2015\Debug;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <FxCompile>
+      <EntryPointName>VSMain</EntryPointName>
+    </FxCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

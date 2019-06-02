@@ -1,0 +1,133 @@
+﻿  CAllocateHierarchyBoss.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CSkinnedMeshBoss.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  main.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  GlobalFunction.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CAllocateHierarchy.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CAnimationController.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CDirect3DApplication.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CObject.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CRenderObject.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CSceneObject.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CWindowApplication.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CUIObject.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CDebugDraw.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CGizmo.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CGrid.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CDeviceManager.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CInputManager.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CResourceManager.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CSceneManager.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CSchedulerManager.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CSoundManager.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CTimeManager.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CWindowManager.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CCamera.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CLight.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CParticleSystem.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CSkinnedMesh.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CSkybox.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CStaticMesh.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CTerrain.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CParticleEmitter.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CSound.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CLabel.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CSprite.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  bossRoom.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CTeraMap.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CTeraMapManager.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  filedMap.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CMonster.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CMonsterFactory.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  MArgass.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MBasilisk.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MCraftySpider.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MDooBean.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MPlantMini.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MPollutedWolf.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MGhillieDhu.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MVergos.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CNPC.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CPlayer.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CStaticMesh_AlphaControl.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CStaticMesh_Boss.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CStaticMesh_Map.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CTeraDMFont.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CTeraEffect.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  TeraMain.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  BossScene.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  IntroScene.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  LoadingScene.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MainScene.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CQuestPopup.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CSprite_MapUI.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CTeraUI.cpp
+d:\directx9_팀포폴_프로젝트+영상\[steam]_directx9_team_portfolio\direct3d_jjw\classes\global\define\kglobaldefine.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  코드를 생성하고 있습니다...

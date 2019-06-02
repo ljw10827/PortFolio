@@ -1,0 +1,76 @@
+InWeapon				0		40		
+JumpEnd					41		58		
+JumpEndLand				59		67		
+JumpLoop				68		84		
+JumpStart				85		100		
+NormalRun				101		125		
+NormalWait				126		158		
+NormalWalk				159		203		
+Idle1					204		288		84
+Idle2					289		421		132
+Idle3					422		582		160
+Angry					583		634		51
+Victory					635		677		42
+Dance					678		792		114
+OutWeapon				793		823		30
+AdvLeap					824	838	14
+BackAttackShot			839	872	33
+BackAttackStart			873	882	9
+BehindCatchShot	        883	916	33
+BehindCatchStart		917	926	9
+bReactionCom2			927	955	28
+bReactionCom3			956	1013	57
+bReactionDown2			1014	1030	16
+bReactionDown3			1031	1071	40
+bReactionLand3			1072	1117	45
+bReactionRolling3		1118	1127	9
+bReactionStart2			1128	1157	29
+bReactionStart3			1158	1206	48
+combo1					1207	1237	30
+combo1R					1238	1261	23
+combo2					1262	1298	36
+combo2R					1299	1325	26
+combo3					1326	1353	27
+combo3R					1354	1382	28
+combo4					1383	1443	60
+CutHead					1444	1534	90
+CuttingSlash			1535	1607	72
+death					1608	1692	84
+deathwait				1693	1693	1
+DownBlow				1694	1748	54
+DrawSword				1749	1790	41
+DrawSwordCharge			1791	1844	53
+DrawSwordEnd			1845	1899	54
+DrawSwordLoop			1900	1924	24
+DrawSwordMove			1925	1951	26
+FlatBlade				1952	2006	54
+gaiaCrush01				2007	2027	20
+gaiaCrush02				2028	2079	51
+gaiaCrush03				2080	2112	32
+groggy1					2113	2137	24
+GuardReaction1			2138	2146	8
+handyslash				2147	2252	105
+inweaponX				2253	2293	40
+JawBreaker				2294	2342	48
+outweaponX				2343	2373	30
+RagingStrike			2374	2416	42
+RetreatKick				2417	2468	51
+RisingAttack			2469	2520	51
+AtkRun					2521	2545	
+slidingCharge			2546	2560	
+slidingEnd				2561	2594	
+slidingSlash			2595	2618	
+slidingSlash01Shot		2619	2681	
+sReaction				2682	2698	
+StingerBlade			2699	2771	
+swordDanceLoop			2772	2818
+swordDanceShot			2819	2893
+swordDanceStart			2894	2924
+tumbling				2925	2985
+AtkWait					2986	3001
+WindCutter1				3002	3022
+WindCutter1R			3023	3043
+WindCutter2				3044	3064
+WindCutter2R			3065	3086
+WindCutter3				3087	3147
+

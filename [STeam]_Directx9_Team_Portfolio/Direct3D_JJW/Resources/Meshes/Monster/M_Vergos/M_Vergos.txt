@@ -1,0 +1,139 @@
+AngryEnd                    0 24     화났다
+AngryLoop                   25 67    화났다
+AngryStart                  68 128   화났다
+
+Bite01R                     129 139  별로
+Bite01Shot                  140 155  별로
+Bite01Start                 156 226  별로
+Bite02R                     227 257  별로
+Bite02Shot                  258 273  별로
+Bite02Start                 274 284  별로
+BitStart                    285 350  별로
+
+BlowBatterR                 351 393  손 회수
+BlowBatterShot01            394 434  두찍기
+BlowBatterShot02End         435 455  빠르게 찍기
+BlowBatterShot02Start       456 471  약간 높게 들었다가
+BlowBatterStart             472 502  준비 동작
+
+BlowDoubleEnd01             503 538   더욱 꾹 누른다.
+BlowDoubleEnd02             539 579   더욱 꾹 누른다.
+BlowDoubleR                 580 605   두 손으로 찍는다.
+BlowDoubleStart             606 651   준비하고
+
+BlowHeadR                   652 712   어지러워 한다.
+BlowHeadShot                713 743   머리를 바닥에 찍고
+BlowHeadStart               744 814   두 발로 서서
+
+BlowJumpEnd                 815 905   별로다
+BlowJumpLoop                906 956   별로다
+BlowJumpStart               957 1047  별로다
+
+BlowLeftEnd                 1048 1121
+BlowLeftLoop                1122 1186
+BlowLeftR                   1187 1219
+BlowLeftShot                1220 1247
+BlowLeftStart               1248 1298
+BlowRightEnd                1299 1372 Start - Shot - End 은 이쁨
+BlowRightLoop               1373 1437 그냥 루프
+BlowRightR                  1438 1470 그냥 루프
+BlowRightShot               1471 1498 안으로 때리기
+BlowRightStart              1499 1549 밖에서
+
+BlowRotation01R             1550 1565 안 쓰는게 좋은 듯
+BlowRotation01Shot          1566 1671 그닥
+BlowRotation01Start         1672 1727 별로
+BlowRotation02R             1728 1743 안쓰는게 좋을듯
+BlowRotation02Shot          1744 1849 그닥
+BlowRotation02Start         1850 1905 별로
+BlowTailEndShot             1906 1951 꼬리내려찍기
+BlowTailEndStart            1952 1967 준비
+BlowTailStart               1968 2018 준비
+
+BreathFlankLeftEnd          2019 2079 
+BreathFlankLeftLoop         2080 2110 
+BreathFlankLeftStart        2111 2191 
+BreathFlankRightEnd         2192 2252 다시 고개 돌리고
+BreathFlankRightLoop        2253 2283 연속으로 브레스 쓰고
+BreathFlankRightStart       2284 2364 오른쪽 보고
+
+BreathFlyHigh               2365 2505 높은 하늘에서 브레스 -> 안쓸듯
+
+BreathFront                 2506 2656 왼쪽에서 오른쪽으로 다다닥쏘기
+
+BreathJumpEnd               2657 2735 어색한 종료
+BreathJumpFly               2736 2778 하늘 대기
+BreathJumpFlyLoop           2779 2821 하늘 대기 -> 이 3가지는 같음
+BreathJumpLoop              2822 2864 하늘 대기
+BreathJumpShot              2865 2907 하늘에서 툭 원거리 짧게 공격
+BreathJumpShotEnd           2908 2953 하늘 브레스 끝
+BreathJumpShotLoop          2954 2984 계속하늘에서 아래를 브레스
+BreathJumpStart             2985 3075 하늘로 상승 -> 이거 좋다.
+
+BreathLeft                  3076 3226 왼쪽부터 오른쪽으로 브레스
+BreathRight                 3227 3377 오른쪽부터 왼쪽으로 브레스
+
+Death                       3378 3678
+DeathWait                   3679 3680
+
+End01                       3681 3840 초스피드 수직 상승 모션
+
+Flinch                      3841 3941 피격
+
+FlyEnd                      3942 3998 불완전한 착지 모습
+FlyHighEnd                  3999 4064 종료
+FlyHighLoop                 4065 4089 수직하강
+FlyHighStart                4090 4190 수직상승
+
+FlyLoop                     4191 4233 루프인데 어색하다.
+FlyLoopFireEnd              4234 4255 
+FlyLoopFireLoop             4256 4291 입으로 무언가 쏘는 모습
+FlyLoopFireStart            4292 4340 하늘에서 준비하고
+FlyStart                    4341 4446 난다.
+
+Groggy                      4447 4534 그로기
+
+Phase4_BlowLeft             4535 4639 왼쪽 앞발로 찍기
+Phase4_BlowRight            4640 4744 오른쪽 앞발로 찍기
+
+Phase4_End01                4745 5241 밑에 Roar 스타트+루프+엔드
+
+Phase4_RoarEnd              5242 5332 끝
+Phase4_RoarLoop             5333 5363 강하게 울부짖는다.
+Phase4_RoarStart            5364 5463 준비하시고
+Phase4_Spawn01              5464 5758 회전하면서 하강
+Phase4_Spawn02              5759 6447 뒤돌아서 돌면서 상승
+Phase4_Wait                 6448 6512 대기, 별로임
+RoarEnd                     6513 6598 울부짖는다.
+RoarLoop                    6599 6629 부들부들 떤다
+RoarStart                   6630 6660 준비하시고
+RoundAtk01End               6661 6691
+RoundAtk01R                 6692 6717
+RoundAtk01Start             6718 6783
+RoundAtk02End               6784 6814
+RoundAtk02R                 6815 6840
+RoundAtk02Start             6841 6906 
+RoundMove01                 6907 6967 버림
+RoundMove02                 6968 7028 버림
+RoundMove03                 7029 7089 버림
+RoundMove04                 7090 7150 버림(날개가 안나온다.)
+Spawn01                     7151 7851 버림(루트프레임이 없음)
+Spawn02                     7852 8052 버림(루트프레임이 없음)
+SwingInsideLeftR            8053 8093 버림
+SwingInsideLeftShot         8094 8119 버림
+SwingInsideLeftStart        8120 8195 버림
+SwingInsideRightR           8196 8236 버림
+SwingInsideRightShot        8237 8262 버림
+SwingInsideRightStart       8263 8338 버림
+SwingOutsideLeftR           8339 8389 버림
+SwingOutsideLeftShot        8390 8420 버림
+SwingOutsideLeftStart       8421 8491 버림
+SwingOutsideRightR          8492 8542 버림
+SwingOutsideRightShot       8543 8573 버림
+SwingOutsideRightStart      8574 8644 버림
+ThreatEnd                   8645 8680 버림
+ThreatLoop                  8681 8711 버림
+ThreatStart                 8712 8752 버림
+ThreatStartEnd              8753 8773 버림
+ThreatStartLoop             8774 8804 버림
+Wait                        8806 8869 버림
